@@ -16,3 +16,6 @@ $ pip3 install django-filter
 ```sh
 $ python3 manage.py runserver  
 ```
+```sh
+access to localhost:8000/home to use thís app  
+```
